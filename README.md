@@ -38,3 +38,7 @@ Theory :-
    if (b<a) : print("b is less than a")
 
    else : print("b is greater than a") 
+
+Conclusion :-
+
+   This experiment provides a basic understanding of Python syntax, data types, input–output operations, mathematical calculations, and conditional statements, forming a foundation for beginner-level Python programming.
